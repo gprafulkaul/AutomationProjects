@@ -19,7 +19,7 @@ This is a Selenium WebDriver automation framework written in Java. It features c
 
 - Java
 - Selenium WebDriver
-- Maven (optional)
+- Gradle/Maven (optional)
 - JUnit / TestNG (if used)
 
 ## 📁 Project Structure
